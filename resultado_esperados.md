@@ -8,9 +8,9 @@
 
 ## Limitações potenciais
 
-- Autodiagnostico
 - Desconexão Emocional: A pesquisa aponta para dificuldades na criação de conexões emocionais profundas durante consultas online.
 - Limitações Diagnósticas: Evidências sugerem que a avaliação de problemas de saúde mental pode ser mais desafiadora sem interações presenciais.
 - Qualidade Variável: A pesquisa evidencia diferenças na qualidade do serviço prestado por psicólogos em início de carreira, levantando preocupações sobre a consistência do tratamento
 - Confidencialidade Online: Preocupações com a segurança e privacidade das informações compartilhadas online são identificadas como um desafio potencial.
 - Desconexão Emocional: A pesquisa aponta para dificuldades na criação de conexões emocionais profundas durante consultas online.
+- Autodiagnostico: Expectativa que a plataforma vai conceber o diagnostico para os usuários.
